@@ -1,3 +1,3 @@
 # scrapingWebsite
 
-Everything will be pushed saturday.
+Everything is ready without heroku
